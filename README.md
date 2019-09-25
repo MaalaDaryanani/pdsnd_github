@@ -11,5 +11,4 @@ Analyze bikeshare data using Python.
 bikeshare_project_3.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/MaalaDaryanani/pdsnd_github.git
