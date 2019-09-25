@@ -5,10 +5,10 @@ Sept 25 '19.
 Git Bikeshare Project.
 
 ### Description
-Describe what your project is about and what it does
+Analyze bikeshare data using Python.
 
 ### Files used
-Include the files used
+bikeshare_project_3.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
