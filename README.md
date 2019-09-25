@@ -12,3 +12,5 @@ bikeshare_project_3.py
 
 ### Credits
 https://github.com/MaalaDaryanani/pdsnd_github.git
+
+Additional change for Step 3.
