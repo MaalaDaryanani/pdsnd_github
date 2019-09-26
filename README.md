@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+Sept 25 '19.
 
 ### Project Title
-Replace the Project Title
+Git Bikeshare Project.
 
 ### Description
-Describe what your project is about and what it does
+Analyze bikeshare data using Python.
 
 ### Files used
-Include the files used
+bikeshare_project_3.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/MaalaDaryanani/pdsnd_github.git
 
+Additional change for Step 3.
